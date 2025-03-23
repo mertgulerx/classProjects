@@ -11,9 +11,23 @@ Keys: 1 6 4 3 5
 
 Locks: 5 3 6 1 4
 
-The main rule is that you cannot compare keys with keys or locks with locks. You must use a key to sort locks and a lock to sort keys
+The main rule is that you cannot compare keys with keys or locks with locks. You must use a key to sort locks and a lock to sort keys.
 
 The pivot key is selected randomly.
+
+### Performance
+
+Dataset with total 20 million integers took 4 seconds to sort.
+
+<img src="https://github.com/mertgulerx/classProjects/blob/main/Data%20Structures%20and%20Algorithms/Quick%20Sort%20-%20Lock%20and%20Keys/images/20m.png" width="40%">
+
+Adding `if (i != j)` to Quick Sort algorithm increased performance by %17 (0.7 seconds for this dataset)
+
+<img src="https://github.com/mertgulerx/classProjects/blob/main/Data%20Structures%20and%20Algorithms/Quick%20Sort%20-%20Lock%20and%20Keys/images/slower.png" width="40%">
+
+Doubling the size, increased the time by 4.5 seconds and proved O(N log N)
+
+<img src="https://github.com/mertgulerx/classProjects/blob/main/Data%20Structures%20and%20Algorithms/Quick%20Sort%20-%20Lock%20and%20Keys/images/40m.png" width="40%">
 
 ### Pseudo Code: 
 
