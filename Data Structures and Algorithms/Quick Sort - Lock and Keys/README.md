@@ -1,5 +1,7 @@
 # Lock and Keys
 
+<img src="https://github.com/mertgulerx/classProjects/blob/main/Data%20Structures%20and%20Algorithms/Quick%20Sort%20-%20Lock%20and%20Keys/images/locksnkeys.png" width="40%">
+
 ## ReflectionSort (Custom QuickSort)
 
 Reflection Sort matchs uniquely sized keys and locks using the QuickSort algorithm.
