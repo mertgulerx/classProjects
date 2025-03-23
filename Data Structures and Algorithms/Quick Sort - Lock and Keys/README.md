@@ -17,7 +17,7 @@ The pivot key is selected randomly.
 
 ### Performance
 
-Dataset with total 20 million integers took 4 seconds to sort.
+Dataset with total 20 million integers took 4 seconds to sort. 38 MB memory usage per 10 million integers.
 
 <img src="https://github.com/mertgulerx/classProjects/blob/main/Data%20Structures%20and%20Algorithms/Quick%20Sort%20-%20Lock%20and%20Keys/images/20m.png" width="40%">
 
