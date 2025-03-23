@@ -21,7 +21,7 @@ Dataset with total 20 million integers took 4 seconds to sort.
 
 <img src="https://github.com/mertgulerx/classProjects/blob/main/Data%20Structures%20and%20Algorithms/Quick%20Sort%20-%20Lock%20and%20Keys/images/20m.png" width="40%">
 
-Adding `if (i != j)` to Quick Sort algorithm increased performance by %17 (0.7 seconds for this dataset)
+Adding `if (i != j)` to Lomuto algorithm increased performance by %17 (0.7 seconds for this dataset)
 
 <img src="https://github.com/mertgulerx/classProjects/blob/main/Data%20Structures%20and%20Algorithms/Quick%20Sort%20-%20Lock%20and%20Keys/images/slower.png" width="40%">
 
